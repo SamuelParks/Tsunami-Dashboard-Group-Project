@@ -1,0 +1,4 @@
+Go into Git Bash,
+navigate to this folder,
+and run:
+voila --strip_sources=False --theme=dark embedded_notebook.ipynb
